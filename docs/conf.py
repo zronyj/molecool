@@ -28,9 +28,9 @@ copyright = ("2024, Marlene Bosquez. Project structure based on the "
 author = 'Marlene Bosquez'
 
 # The short X.Y version
-version = ''
+version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = 'alpha'
 
 
 # -- General configuration ---------------------------------------------------
