@@ -9,8 +9,7 @@ build:
 
 python:
   install:
-    - method: pip
-      path: .
+    - requirements: docs/requirements.txt
 
-conda:
-  environment: docs/requirements.yaml
+sphinx:
+  configuration: docs/conf.py
