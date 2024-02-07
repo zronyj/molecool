@@ -10,8 +10,8 @@ build:
 python:
   install:
     - method: pip
-    - requirements: docs/requirements.yaml
     - path: .
+#    - requirements: docs/requirements.yaml
 
 sphinx:
   configuration: docs/conf.py
