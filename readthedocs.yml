@@ -9,12 +9,7 @@ build:
 
 python:
   install:
-    - method: pip
-    - path: .
-#    - requirements: docs/requirements.yaml
+    - requirements: docs/requirements.yaml
 
 sphinx:
   configuration: docs/conf.py
-
-conda:
-  environment: docs/requirements.yaml
