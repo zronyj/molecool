@@ -7,6 +7,14 @@ molecool
 
 Something awesome is about too happen
 
+### Install Instructions
+
+To install, run this command:
+
+```python
+pip instal -e .
+```
+
 ### Copyright
 
 Copyright (c) 2024, Marlene Bosquez
