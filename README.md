@@ -15,6 +15,10 @@ To install, run this command:
 pip instal -e .
 ```
 
+## Collab Instructions
+To submit your feeature to be included, submit a `Pull request`.
+The repository maintainers will approve it (maybe?).
+
 ### Copyright
 
 Copyright (c) 2024, Marlene Bosquez
